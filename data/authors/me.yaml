@@ -2,21 +2,21 @@ schema: hugoblox/author/v1
 slug: me
 is_owner: true
 name:
-  display: 吳健雄
-  given: Shiung Wu
-  family: Chien
-  pronunciation: Chien Shiung Wu
+  display: Полина Петровна Богомолова
+  given: Полина Петровна
+  family: Богомолова
+  pronunciation: Polina Petrovna Bogomolova
   pronouns: she/her
-status:
-  icon: "☕️"
-role: Professor of Artificial Intelligence
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-affiliations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  avatar: "cat.jpg"
+role: "Здравствуйте! Меня зовут Полина, я студентка НКАбд-01-25.<br><br>Интересуюсь программированием, а также мне очень нравится изучать<br> иностранные языки. Люблю путешествовать<br><br>Я создала свой сайт, который в дальнейшем заполню интересными постами<br>Учусь на факультете физико-математических и естсественных наук в РУДН<br>"
+Interests: Программирование и путешествия
+bio: 'Мой сайт, созданный на курсе Архитектура компьютеров и ОС'
+affiliations: 
+  - name: Российский Университет Дружбы Народов имени Патриса Лумумбы
+    url: https://www.rudn.ru
 links:
   - icon: at-symbol
-    url: mailto:your-email@example.com
+    url: mailto:1032253562@rudn.ru
     label: E-mail Me
   - icon: brands/x
     url: https://x.com/MakeOwnable
